@@ -1,1 +1,3 @@
 este archivo esta chido
+vector.lenght-1;
+esta si la debe de mostrar
